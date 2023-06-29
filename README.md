@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-using-Machine-Learning
+Credit card fraud detection using Machine Learning Models.
+Models include naive Bayes, Random Forest, ANN, SMOTE using ANN.
